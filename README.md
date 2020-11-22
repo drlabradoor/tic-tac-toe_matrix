@@ -1,2 +1,2 @@
-# tic-tac-toe_matrix
-Tic-Tac-Toe using matrix on Python
+# Сonsole Tic-Tac-Toe on Python
+I did this while learning the language using everything I learned during development, namely matrices, list generators, etc. Maybe someone will come in handy.
